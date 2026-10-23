@@ -1,0 +1,19 @@
+{
+  "name": "StudyArc — Student Study Workspace",
+  "short_name": "StudyArc",
+  "description": "A student-built study workspace for modules, exam planning, marks analysis, and focus sessions.",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#D2ECF9",
+  "theme_color": "#D2ECF9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Crect width='48' height='48' rx='14' fill='%2317313D'/%3E%3Cpath d='M24 8L38 34H10L24 8Z' stroke='%23347F9E' stroke-width='3' stroke-linejoin='round'/%3E%3Cpath d='M24 16L32 32H16L24 16Z' fill='%235DB8D2' opacity='0.85'/%3E%3Ccircle cx='24' cy='24' r='3.5' fill='%23FFFFFF'/%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
